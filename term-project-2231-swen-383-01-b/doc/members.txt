@@ -1,0 +1,52 @@
+Name: Riley Basile-Benson
+
+Account: rdb6619@rit.edu
+
+Have you been on co-op? yes
+
+List 1 to 3 programming languages you know: Python, Java
+
+List 1 to 3 hobbies or interests: reading, working on cars
+
+
+Name: Tryder Kulbacki
+
+Account: thk9885@rit.edu
+
+Have you been on co-op? yes
+
+List 1 to 3 programming languages you know: Java, Python, LUA, +more
+
+List 1 to 3 hobbies or interests: Gaming, Karate, Coding
+
+
+Name: Nathaniel Pellegrino
+
+Account: nsp7786@rit.edu
+
+Have you been on co-op? yes
+
+List 1 to 3 programming languages you know: Java, Python, JavaScript, +more
+
+List 1 to 3 hobbies or interests: Gaming, reading
+
+Name: Drew Silberman
+
+Account: ds6953@rit.edu
+
+Have you been on co-op? no
+
+List 1 to 3 programming languages you know: Java, Python, JavaScript, +more
+
+List 1 to 3 hobbies or interests: Gaming, skating, reading
+
+
+Name: Christian Berko
+
+Account: ceb1810@rit.edu
+
+Have you been on co-op? yes
+
+List 1 to 3 programming languages you know: Java, JavaScript, css, 
+
+List 1 to 3 hobbies or interests: cars, reading, technology 

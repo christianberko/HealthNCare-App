@@ -1,0 +1,4 @@
+Chat-GPT 3.5: Design a bar chart to display percentages out of 100%. Make it using AWT in Java.
+https://chat.openai.com/share/0dd31eda-36bf-430a-8138-5654985a224d
+
+The use of this tool was for reference only. All code is original and our own work.
