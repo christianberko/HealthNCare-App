@@ -1,0 +1,1 @@
+Semester long project that focused on the use of several design patterns including, MVC, Observer, Mediator, and Composite.  The project had 2 main phases, the first was the command line interface and second was the GUI. The App allows user to track their daily food intake, add the foods to a log, track their calories, and log exercises.
